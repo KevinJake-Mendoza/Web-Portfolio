@@ -28,7 +28,8 @@ h2{
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: #f2f2f2;
-	background-color: rgba(0, 0, 0, 0.60);
+	background-color: rgba(79, 79, 105, 0.90);
+	/*background-color: rgba(0, 0, 0, 0.60);*/
 
 }
 #me{
@@ -37,7 +38,7 @@ h2{
 	border-radius: 50%;
 	border-width: 5px;
 	border-style: solid;
-	border-color: white;
+	border-color: rgba(255, 255, 255, 0.20);
 	margin-top: 50px;
 
 }
